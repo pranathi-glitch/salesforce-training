@@ -6,4 +6,4 @@
 
 ## Tasks Completed
 - Created salesforce-training repository
-- Created week1/day1 structure
+- Created day1 structure
